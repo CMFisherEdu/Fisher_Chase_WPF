@@ -22,28 +22,7 @@
     <favorites_list name="Expressions_Worksheet" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index_Activity_Expression_Worksheet.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Personal/index_Activity_Expression_Worksheet.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="7" selection-start="338" selection-end="338" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="285">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Personal/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="98" selection-end="98" vertical-scroll-proportion="0.19424461" vertical-offset="0" max-vertical-offset="695">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -61,10 +40,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
-    <option name="y" value="22" />
-    <option name="width" value="1400" />
-    <option name="height" value="792" />
+    <option name="x" value="122" />
+    <option name="y" value="24" />
+    <option name="width" value="1278" />
+    <option name="height" value="755" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -154,6 +133,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistory" value="&#10;var" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -209,14 +189,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="22" width="1400" height="792" extended-state="0" />
-    <editor active="true" />
+    <frame x="122" y="24" width="1278" height="755" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2738654" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -281,19 +261,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Personal/index_Activity_Expression_Worksheet.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="7" selection-start="338" selection-end="338" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="285">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Personal/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="98" selection-end="98" vertical-scroll-proportion="0.19424461" vertical-offset="0" max-vertical-offset="695">
+        <state line="86" column="16" selection-start="3736" selection-end="3736" vertical-scroll-proportion="0.82587063" vertical-offset="822" max-vertical-offset="1425">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Personal/index_Activity_Expression_Worksheet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="7" selection-start="338" selection-end="338" vertical-scroll-proportion="0.31400967" vertical-offset="0" max-vertical-offset="621">
+          <folding />
         </state>
       </provider>
     </entry>
