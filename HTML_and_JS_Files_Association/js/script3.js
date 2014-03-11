@@ -38,5 +38,6 @@ var secPart = 4567;
 var phoneNo = areaCode + firstPart + secPart;
 console.log(phoneNo); //should fail and provide us with actual addition.
 
-var phoneNo = "(" + String(areaCode) + ") " + String(firstPart) + " - " + String(secPart); // should succeed and give a strung-together phone number when we console.
+var phoneNo = "(" + String(areaCode) + ") " + String(firstPart) + " - " + String(secPart);
+// should succeed and give a strung-together phone number when we console.
 console.log(phoneNo);
